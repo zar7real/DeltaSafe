@@ -203,9 +203,7 @@ TIMESTAMP,OPERATION,USER,STATUS
 ## 📄 License
 MIT License - Enterprise use authorized
 
-**Author**: [Your Name or Team]
-
-*(Include actual license file in repository)*
+**Author**: zar7real
 
 ---
 

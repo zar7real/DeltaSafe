@@ -1,7 +1,5 @@
 # 🔒 Enterprise Backup Tool - Official Documentation
 
-![Backup Tool Architecture](https://via.placeholder.com/800x400?text=Backup+Tool+Architecture) *(Replace with actual diagram)*
-
 Advanced Python backup system with enterprise-grade features, designed for critical environments and regulatory compliance (ISO, NIST, FIPS).
 
 ---

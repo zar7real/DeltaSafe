@@ -83,19 +83,16 @@ Get up and running in less than 5 minutes:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/enterprise-backup-tool.git
-cd enterprise-backup-tool
+git clone https://github.com/zar7real/DeltaSafe
+cd DeltaSafe
 
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Initialize the backup system
+# 2. Initialize the backup system
 python backup.py init
 
-# 4. Create your first backup
+# 3. Create your first backup
 python backup.py backup --source /home/user/documents --type full
 
-# 5. List all backups
+# 4. List all backups
 python backup.py list
 ```
 

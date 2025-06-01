@@ -612,9 +612,6 @@ cd DeltaSafe
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install development dependencies
-pip install -r requirements-dev.txt
-
 # Run tests
 python -m pytest tests/
 ```
